@@ -28,7 +28,7 @@ import com.dropbox.core.v2.DbxClientV2;
 import com.dropbox.core.v2.files.FileMetadata;
 
 public class StegDrop_Download {
-private static final String ACCESS_TOKEN = "k2fSJjNwo7wAAAAAAAAQ99qNNFb-xPyJfl-n-oUe-CU2FK7MqhHrg_W2CI6BILWa";
+private static final String ACCESS_TOKEN = "";
 
 public static void download() throws Exception{
 	
