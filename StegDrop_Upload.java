@@ -26,7 +26,7 @@ import com.dropbox.core.v2.files.Metadata;
 
 import javax.imageio.ImageIO;
 public class StegDrop_Upload {
-private static final String ACCESS_TOKEN = "k2fSJjNwo7wAAAAAAAAQ99qNNFb-xPyJfl-n-oUe-CU2FK7MqhHrg_W2CI6BILWa";
+private static final String ACCESS_TOKEN = "";
 
 	public void upload() throws Exception{
 		
